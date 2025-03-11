@@ -6,9 +6,9 @@
 
 library(survival)
 
-source('C:/Users/dioni/OneDrive - University of São Paulo/Doutorado em Estatística/03_semestres/2024.2/2_Topicos_Avancados_de_Pesquisa_I/R_code/covariates/aplicacao/source_reg_MO_Gompertz.R')
-source('C:/Users/dioni/OneDrive - University of São Paulo/Doutorado em Estatística/03_semestres/2024.2/2_Topicos_Avancados_de_Pesquisa_I/R_code/covariates/aplicacao/source_reg_MO_IG.R')
-source('C:/Users/dioni/OneDrive - University of São Paulo/Doutorado em Estatística/03_semestres/2024.2/2_Topicos_Avancados_de_Pesquisa_I/R_code/covariates/aplicacao/source_reg_classical_defective.R')
+source('https://raw.githubusercontent.com/Dionisioneto/regression_defective_MO/refs/heads/main/application/source_reg_MO_Gompertz.R')
+source('https://raw.githubusercontent.com/Dionisioneto/regression_defective_MO/refs/heads/main/application/source_reg_MO_IG.R')
+source('https://raw.githubusercontent.com/Dionisioneto/regression_defective_MO/refs/heads/main/application/source_reg_MO_Gompertz.R')
 
 ## Funções de comparação de modelos (Inferência Clássica)
 
