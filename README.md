@@ -4,7 +4,7 @@ This repository contains code for the manuscript Estimating cure rates with Mars
 
 
 
-**MO_Gompertz**
+📁**MO_Gompertz**
 
 MLE_reg_MO_Gompertz.R contains the code to conduct the maximum likelihood estimation (MLE) of the Marshall-Olkin Gompertz regression model.
 
@@ -13,7 +13,7 @@ Monte_Carlo_frequentist_reg_MO_Gompertz.R contains the iterative code to conduct
 resumos_freq_MC_reg_MO_Gompertz is a folder which presents the results for different sample sizes of 1000 Monte Carlo replicates in the simulation study.
 
 
-**MO_IG**
+📁**MO_IG**
 
 MLE_reg_MO_IG.R contains the code to conduct the maximum likelihood estimation (MLE) of the Marshall-Olkin Inverse Gaussian regression model.
 
@@ -22,7 +22,7 @@ Monte_Carlo_frequentist_reg_MO_IG.R contains the iterative code to conduct the M
 resumos_freq_MC_reg_MO_IG is a folder which presents the results for different sample sizes of 1000 Monte Carlo replicates in the simulation study.
 
 
-**application**
+📁**application**
 
 application1_freq_Colon_cancer.R contains the code necessary to replicate the data analysis in colon cancer data, using the defective regression model developed in the paper, the classical defective regression models
 and the mixture cure weibull model. 
