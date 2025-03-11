@@ -37,4 +37,4 @@ source_reg_MO_IG.R contains the source functions for estimation of Marshall-Olki
 
 source_reg_classical_defective.R contains the source functions for estimation of Gompertz and inverse Gaussian regression models.
 
-Note: The dataset considered for this study is fully available in survival package.
+Note: The dataset considered for this study is fully available in the survival package.
